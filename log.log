@@ -1,0 +1,24 @@
+INFO:root:get_default_clusters_simple_grid_bush_generator_optimal_bushes_optimizer_3
+INFO:root:[96mSolution found with metric value - 18607.3174813041[0m
+INFO:root:[92mone_bush_multiple_wells: True[0m
+INFO:root:[92mis_bushing_valid: True[0m
+INFO:root:get_default_clusters_simple_grid_bush_generator_optimal_bushes_optimizer_3
+INFO:root:[96mSolution found with metric value - 19407.280079050448[0m
+INFO:root:[92mone_bush_multiple_wells: True[0m
+INFO:root:[92mis_bushing_valid: True[0m
+INFO:root:get_default_clusters_simple_grid_bush_generator_optimal_bushes_optimizer_3
+INFO:root:[96mSolution found with metric value - 401.2700901354376[0m
+INFO:root:[92mone_bush_multiple_wells: True[0m
+INFO:root:[92mis_bushing_valid: True[0m
+INFO:root:get_default_clusters_simple_grid_bush_generator_optimal_bushes_optimizer_3
+INFO:root:[96mSolution found with metric value - 1301.998106063858[0m
+INFO:root:[92mone_bush_multiple_wells: True[0m
+INFO:root:[92mis_bushing_valid: True[0m
+INFO:root:get_louvain_clusters_simple_grid_bush_generator_optimal_bushes_optimizer_3
+INFO:root:[96mSolution found with metric value - 21307.285640471695[0m
+INFO:root:[92mone_bush_multiple_wells: True[0m
+INFO:root:[92mis_bushing_valid: True[0m
+INFO:root:get_louvain_clusters_simple_grid_bush_generator_optimal_bushes_optimizer_8
+INFO:root:[96mSolution found with metric value - 13611.465831092562[0m
+INFO:root:[92mone_bush_multiple_wells: True[0m
+INFO:root:[92mis_bushing_valid: True[0m
